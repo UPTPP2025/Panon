@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uptpp2025.github.io/Panon/sitemap.xml
